@@ -1,10 +1,10 @@
 # Own's Cafe
 
-A cozy, responsive website for **Own's Cafe**, made for good coffee and even better company. The site includes a browsable sample menu, cafe details, and an interactive Coffee Quest trivia game.
+A polished, responsive cafe website for **Own's Cafe**, with a custom coffee-cup logo, an espresso-toned cinematic hero, interactive 3D tilt and ambient CSS motion, a browsable sample menu, and Coffee Quest trivia.
 
 ## Preview locally
 
-Open `index.html` in a browser. The page is self-contained; its photos and optional web fonts load from external services, so an internet connection is needed for those assets.
+Open `index.html` in a browser. The page loads its styles from `css/styles.css`; its photos and optional web fonts load from external services, so an internet connection is needed for those assets.
 
 ## Publish with GitHub Pages
 
@@ -22,4 +22,4 @@ Before sharing the site with customers, edit `index.html` to replace the example
 
 ## Coffee Quest promotion note
 
-The Coffee Quest is a browser-only demo: the questions, score, and generated reward code run on the visitor's device and are not verified or recorded by a server. **Do not use the generated code to authorize a real free item or as proof of a winning claim.** Before running a real promotion, connect the game to a server that verifies eligibility, issues single-use rewards, and records redemptions; also publish clear promotion terms.
+The Coffee Quest draws three questions from a shuffled pool and remembers the previous starting question for the current browser tab, so refreshing starts with a different question. The game and generated reward code run on the visitor's device and are not verified or recorded by a server. **Do not use the generated code to authorize a real free item or as proof of a winning claim.** Before running a real promotion, connect the game to a server that verifies eligibility, issues single-use rewards, and records redemptions; also publish clear promotion terms.
