@@ -4,6 +4,8 @@ A polished, responsive cafe website for **Own's Cafe**, with a custom coffee-cup
 
 ## Preview locally
 
+The site's homepage is link for visiting site ownscafe.netlify.app
+
 Open `index.html` in a browser. The page loads its styles from `css/styles.css`; its photos and optional web fonts load from external services, so an internet connection is needed for those assets.
 
 ## Publish with GitHub Pages
@@ -13,12 +15,6 @@ Open `index.html` in a browser. The page loads its styles from `css/styles.css`;
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Choose your default branch and the `/(root)` folder, then select **Save**.
 5. After GitHub Pages finishes deploying, open the URL shown in the Pages settings.
-
-The site's homepage is `index.html` in the repository root.
-
-## Make it yours
-
-Before sharing the site with customers, edit `index.html` to replace the example address, phone number, and email in the “Come on in” section. Update the sample menu names and prices to match your cafe.
 
 ## Coffee Quest promotion note
 
