@@ -4,7 +4,7 @@ A polished, responsive cafe website for **Own's Cafe**, with a custom coffee-cup
 
 ## Preview locally
 
-The site's homepage is link for visiting site https://gorgeous-puffpuff-c4b0ba.netlify.app
+The site's homepage is link for visiting site https://ownscafe.netlify.app/
 
 ## Publish with GitHub Pages
 
