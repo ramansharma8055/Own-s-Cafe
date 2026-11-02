@@ -1,7 +1,6 @@
 # Own's Cafe
 
 A polished, responsive cafe website for **Own's Cafe**, with a custom coffee-cup logo, an espresso-toned cinematic hero, interactive 3D tilt and ambient CSS motion, a browsable sample menu, and Coffee Quest trivia.
-ownscafe.netlify.app
 
 ## Preview locally
 
