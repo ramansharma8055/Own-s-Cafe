@@ -1,6 +1,6 @@
 # Own's Cafe
 
-A cozy, responsive website for **Own's Cafe**, made for good coffee and even better company. The site includes a browsable sample menu, cafe details, and an interactive Coffee Quest trivia game.
+A polished, responsive cafe website for **Own's Cafe**, with a custom coffee-cup logo, an espresso-toned cinematic hero, interactive 3D tilt and ambient CSS motion, a browsable sample menu, and Coffee Quest trivia.
 
 ## Preview locally
 
