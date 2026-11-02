@@ -4,9 +4,7 @@ A polished, responsive cafe website for **Own's Cafe**, with a custom coffee-cup
 
 ## Preview locally
 
-The site's homepage is link for visiting site ownscafe.netlify.app
-
-Open `index.html` in a browser. The page loads its styles from `css/styles.css`; its photos and optional web fonts load from external services, so an internet connection is needed for those assets.
+The site's homepage is link for visiting site /ownscafe.netlify.app
 
 ## Publish with GitHub Pages
 
@@ -17,5 +15,5 @@ Open `index.html` in a browser. The page loads its styles from `css/styles.css`;
 5. After GitHub Pages finishes deploying, open the URL shown in the Pages settings.
 
 ## Coffee Quest promotion note
-
+    
 The Coffee Quest draws three questions from a shuffled pool and remembers the previous starting question for the current browser tab, so refreshing starts with a different question. The game and generated reward code run on the visitor's device and are not verified or recorded by a server. **Do not use the generated code to authorize a real free item or as proof of a winning claim.** Before running a real promotion, connect the game to a server that verifies eligibility, issues single-use rewards, and records redemptions; also publish clear promotion terms.
